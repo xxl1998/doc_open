@@ -1,0 +1,11 @@
+reference
+latexbuild.py
+latexbuild2.py
+docs/.vscode
+docs/blog
+docs/pre_research
+docs/projects
+docs/tutorial
+docs/_build
+docs/about/about_me.rst
+docs/about/about_publish.rst
